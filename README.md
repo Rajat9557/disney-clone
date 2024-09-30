@@ -1,2 +1,2 @@
 # disney-clone
-This is disney clone wesite ,it developed by using html , css,java,script
+This is disney clone wesite ,This is developed by using Html ,Css,Javascript.
